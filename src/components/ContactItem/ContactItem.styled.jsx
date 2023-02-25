@@ -23,5 +23,6 @@ export const List = styled.ul`
     flex-direction: column;
     gap: 15px;
     width: 630px;
+    font-size: 30px;
     list-style-type: none;
 `
